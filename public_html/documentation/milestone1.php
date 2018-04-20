@@ -40,20 +40,19 @@
 		<p>*macbook</p>
 	</div><div id="behaviors">
 		<h2>Outlook</h2>
-		<p>Allison is simultaneously excited and apprehensive about her future. She is engaged socially and on social media, yet nonetheless does not feel
-			like her image or "online story" is powerful or unique enough to reach the influencer status she seeks. She is comfortable paying a premium price
-			for excellent work to execute her vision. She is discerning and quick witted. adept with technology yet not a software developer.</p>
+		<p>Allison is simultaneously excited and apprehensive about her future. She is engaged socially and on social media, including pinterest, LinkedIn, Instagram, and Twitter.
+			yet nonetheless does not feel like her image or "online story" is powerful or unique enough through social media to reach the <em>influencer</em> status she seeks.
+			She is comfortable paying a premium price for excellent work to execute her vision. She is discerning and quick witted. adept with technology yet not a software developer.</p>
 	</div><div id="needs">
 		<h2>Frustrations</h2>
-<!--		<ul>-->
-<!--			<li>Other photographers are often difficult or require extended wait periods to schedule photo sessions.</li>-->
-<!--			<li>Professional portrait photographers can often be comfortable in there studio or select locales, many the same as used by Allison's peers</li>-->
-<!--			<li>Each independent photographer has there own style and their own rates, and there is no easy way to shop around.</li>-->
-<!--		</ul>-->
+		<p>Online collaboration can be intimidating. Working across a time-space divide often inhibits efficiency and can slow down or prevent the execution of <em>DontWait.io</em>.
+		after interacting with several sub-par collaborators, who don't communicate effectively, or stick to deadlines, or are stubborn to implement feedback. </p>
+<!--		<h3>To breed confidence in devel</h3>-->
 	</div><div id="Goals">
 		<h2>Goals</h2>
-		<p>To browse a selection of photographers and/or writers and be able to find a hiqh quality freelancer to incorporate into her organization at least through freelance work. Moreover,
-			to breed confidence in the qualifications of her team members to lead a team and generate consistent, high quality weekly basis.
+		<p>To browse a selection of photographers and/or writers and be able to find a hiqh quality freelancer to incorporate into her organization at least through freelance work.
+			It's the responsibility of this freelancer to breed confidence in their qualifications and demonstrate they can overcome the obstacles of working remotely, and generate
+			consistent, high quality content on at least a weekly basis. Even better, she hopes to find a producer that could lead a team and join the org as a manager to expedite its growth.
 		</p>
 	</div><div id="user-story">
 		<h2>User Story</h2>
