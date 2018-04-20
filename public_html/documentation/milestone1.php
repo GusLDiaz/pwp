@@ -35,7 +35,8 @@
 	</div><div id="needs">
 		<h2>Frustrations</h2>
 		<p>Online collaboration can be intimidating. Working across a time-space divide often inhibits efficiency and can slow down or prevent the execution of <em>DontWait.io</em>.
-		After interacting with several sub-par collaborators, who don't communicate effectively, or stick to deadlines, or are stubborn to implement feedback. </p>
+		After interacting with several sub-par collaborators, who don't communicate effectively, or stick to deadlines, or are stubborn to implement feedback, Allison understands the importance
+		of hiring individuals with a professional mindset.</p>
 	</div><div id="Goals">
 		<h2>Goals</h2>
 		<p>To browse a selection of photographers and/or writers and be able to find a hiqh quality freelancer to incorporate into her organization at least through freelance work.
