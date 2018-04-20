@@ -1,6 +1,7 @@
 <?php
 
 ?>
+<section id="title">Glad Lad</section>
 <section id="purpose-audience-goal">
 	<h1>Persona, Audience, Goal</h1>
 	<h2>Purpose:</h2>
