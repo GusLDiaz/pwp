@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Gusli
- * Date: 4/20/2018
- * Time: 9:22 AM
- */
+
 ?>
 <section id="purpose-audience-goal">
 	<h1>Persona, Audience, Goal</h1>
