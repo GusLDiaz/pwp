@@ -32,7 +32,7 @@
 	<div id="student">
 		<h2>Profession:</h2>
 		<p>Allison is a grad student in her first year at an middle-America based masters program, and although she is engaged as a Great-depression specialized historian,
-			her hobby/passion of human-interest journalism has been steadily growing and she is looking to start her own online news agency. To this extent she is looking for
+			her hobby/passion of human-interest journalism has been steadily growing and she is looking to start her own online news platform,<em>Don'tWait.io</em>. To this extent she is looking for
 			contributors and individuals to grow her platform.</p>
 	</div><div id="tech">
 		<h2>Technology:</h2>
@@ -52,7 +52,8 @@
 <!--		</ul>-->
 	</div><div id="Goals">
 		<h2>Goals</h2>
-		<p>To browse a selection of photographers and/or writers and be able to schedule a safe, unique, hiqh quality photoshoot for her senior photos.
+		<p>To browse a selection of photographers and/or writers and be able to find a hiqh quality freelancer to incorporate into her organization at least through freelance work. Moreover,
+			to breed confidence in the qualifications of her team members to lead a team and generate consistent, high quality weekly basis.
 		</p>
 	</div><div id="user-story">
 		<h2>User Story</h2>
