@@ -9,7 +9,7 @@
 <section id="purpose-audience-goal">
 	<h1>Persona, Audience, Goal</h1>
 	<h2>Purpose:</h2>
-	<p>This project will be a professional portfolio and blogspace to demonstrate "photostories",featuring four primary attributes: design, image, writing, and insight.</p>
+	<p>This project will be a professional portfolio and blogspace to demonstrate ability to create and display "photostories",featuring four primary attributes: design, image, writing, and insight.</p>
 	<h2>Audience:</h2>
 	<p>Online (freelancing) clients, journalists, authors, potential employers, and casual protocultural enthusiasts : with an amalgamation of top-quality work, attract a range of individuals
 		interested in collaboration, helping start my next adventure, or pointed me in the right direction.</p>
