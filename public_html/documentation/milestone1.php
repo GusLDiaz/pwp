@@ -6,23 +6,17 @@
  * Time: 9:22 AM
  */
 ?>
-<!--<head>-->
-<!---->
-<!--</head>-->
-<!--<body>-->
 <section id="purpose-audience-goal">
 	<h1>Persona, Audience, Goal</h1>
 	<h2>Purpose:</h2>
 	<p>This project will be a professional portfolio and blogspace to demonstrate "photostories",featuring four primary attributes: design, image, writing, and insight.</p>
 	<h2>Audience:</h2>
 	<p>Online (freelancing) clients, journalists, authors, potential employers, and casual protocultural enthusiasts : with an amalgamation of top-quality work, attract a range of individuals
-		interested in collaboration, helping start my next adventure, or pointed me in the right direction.
-	</p>
+		interested in collaboration, helping start my next adventure, or pointed me in the right direction.</p>
 	<h2>Goal:</h2>
 	<p>The goal of this project is primarily to be the platform for my online prescence, facilitating developing my portfolio as a writer, photographer, and software developer;
 		essentially an all-purpose brag-sheet with location/instance-specific sessions alongside a general about-me.Every visitor should be "wow-ed" or at least appreciate the inherent
 		attention to detail.</p>
-		<!--The service is to have a kitsch-y theme in line with the "fly with me" motto and be known primarily as an image-development organization. </p>-->
 </section>
 <section id="Persona">
 	<h1>Persona</h1>
@@ -46,8 +40,7 @@
 	</div><div id="needs">
 		<h2>Frustrations</h2>
 		<p>Online collaboration can be intimidating. Working across a time-space divide often inhibits efficiency and can slow down or prevent the execution of <em>DontWait.io</em>.
-		after interacting with several sub-par collaborators, who don't communicate effectively, or stick to deadlines, or are stubborn to implement feedback. </p>
-<!--		<h3>To breed confidence in devel</h3>-->
+		After interacting with several sub-par collaborators, who don't communicate effectively, or stick to deadlines, or are stubborn to implement feedback. </p>
 	</div><div id="Goals">
 		<h2>Goals</h2>
 		<p>To browse a selection of photographers and/or writers and be able to find a hiqh quality freelancer to incorporate into her organization at least through freelance work.
