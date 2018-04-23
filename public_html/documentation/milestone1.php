@@ -1,6 +1,9 @@
-<?php
-
-?>
+<!DOCTYPE html>
+<html lang="em">
+	<head>
+		<meta charset="UTF-8">
+	</head>
+	<body>
 <section id="title">Glad Lad</section>
 <section id="purpose-audience-goal">
 	<h1>Persona, Audience, Goal</h1>
@@ -49,3 +52,5 @@
 		<p>As a user, I need to browse content providers and create my custom, one-of-a-kind team.</p>
 	</div>
 </section>
+	</body>
+</html>
