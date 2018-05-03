@@ -24,7 +24,7 @@
 				accompanying a photo, all of which will be superimposed on a large background image of a desert
 				texturescape.
 			</li>
-			<li><strong>PhotoJournals:<strong> I want this to be a responsive Javascript-enabled page component featuring
+			<li><strong>PhotoJournals:</strong> I want this to be a responsive Javascript-enabled page component featuring
 						4-7 embedded images each associated with an short article.The sidebar will cleanly display the
 						inactive images and in the center will be the active image larger and in a simple frame, with the
 						article text displayed alongside.clicking one of the inactive buttons or arrows nearby will cycle the
