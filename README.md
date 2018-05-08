@@ -18,4 +18,4 @@ Your Milestone 1 passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/pe
 
 ### Milestone 2a Feedback
 Per our in-person conversation on 5/7/18 regarding project specs and revisions: 
-- Project incomplete as-is, and revisions are required. Current standing is [Tier I](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Please have revisions completed by Wed 5/9 8:00am for a passing [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/) grade.
+- Project needs revision as-is. Current standing is [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Please have revisions completed by Wed 5/9 8:00am for a [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/) grade and approval to begin development.
