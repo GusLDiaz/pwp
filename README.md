@@ -15,3 +15,7 @@ Your Milestone 1 passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/pe
 #### Edits &amp; Suggestions
 - Review the basic HTML document structure here: https://bootcamp-coders.cnm.edu/class-materials/html/. Your HTML is missing a DOCTYPE, `<head>` and `<body>`. All of the HTML you created should go inside the `<body>`.
 - There are issues with your indentation and formatting - be careful to keep this correct. When a div closes, open the next one on a separate line. Not on the same line.
+
+### Milestone 2a Feedback
+Per our in-person conversation on 5/7/18 regarding project specs and revisions: 
+- Project incomplete as-is, and revisions are required. Current standing is [Tier I](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Please have revisions completed by Wed 5/9 8:00am for a passing [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/) grade.
