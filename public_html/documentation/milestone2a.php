@@ -41,7 +41,7 @@
 			social media links: Github, LinkedIn, and Instagram.</p>
 
 		<h2>Wireframe Images</h2>
-		<a href="wireframe-mobile.pdf">Mobile</a>
-		<a href="wireframe-desktop.pdf">Desktop</a>
+		<a href="pwp_mobile.png">Mobile</a>
+		<a href="pwp_desktop.png">Desktop</a>
 	</body>
 </html>
