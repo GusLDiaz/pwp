@@ -19,3 +19,20 @@ Your Milestone 1 passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/pe
 ### Milestone 2a Feedback
 Per our in-person conversation on 5/7/18 regarding project specs and revisions: 
 - Project needs revision as-is. Current standing is [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Please have revisions completed by Wed 5/9 8:00am for a [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/) grade and approval to begin development.
+
+### Updated Milestone 2a Feedback
+Nice work with the wireframe revisions - these are clear and will provide you with a much better guide for your development process.
+
+There are some significant differences in your layout between the mobile and desktop versions. In order to be able to achieve this look successfully you'll need to be well-versed with CSS `@media` queries and more intermediate-advanced level Bootstrap column sizing. This should be fun, but could be quite challenging - don't hesitate to simplify if you need to. It's also important that you build your front-end using a true mobile-first/progressive enhancement approach - this is industry standard.
+
+For your PhotoStories I think the [FancyBox](http://fancyapps.com/fancybox/3/) JavaScript plugin could be useful for you. It's good quality, fully-responsive, customizable, and fairly easy to integrate.
+
+Pagination will require custom JavaScript, and I'd recommend a 3rd party plugin to help. You'll likely need to utilize a JSON object to feed your content into the front end and cycle on click. Have a look at the following: http://pagination.js.org/. If this proves too daunting or difficult, I recommend simplifying your content and layout.  
+
+Last but not least, [FontAwesome](https://fontawesome.com/) is a good quality free library for including iconography.
+
+You make want to read ahead regarding the contact form integration - and that documentation is here: https://bootcamp-coders.cnm.edu/class-materials/jquery-validated-captcha-form/ 
+
+Again, nice work redefining your direction. Keep things simple, it's better to build something simple and excellent than try for something complex that's poorly executed. Your Milestone 2a passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You are clear to begin development on your PWP.
+
+**We'll be building PWP in a file named index.php inside of /public_html**. Please note that no publicly-accessible site files should live outside of the /public_html directory. Remember use an organized and standards-compliant directory structure to house all images, JavaScript, CSS, etc. We are done with the /documentation directory for now!
