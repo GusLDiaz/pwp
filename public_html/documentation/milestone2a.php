@@ -14,31 +14,27 @@
 	</head>
 	<body>
 		<h1>Content Strategy</h1>
-		<p>My site will be one page viewed on desktop, and several "pages" (cycleable styled as a carosel) composed of
-			these primary components:
+		<p>My site will be one page composed of
+			these three primary components:
 		<p>
 		<ol>
-			<li><strong>Splash:</strong> The landing page-view (for mobile) and for desktop top/first seen section will be
-				a brief one-line introduction will clearly state my name and visions for career advancement as a Front End
-				Developer,
-				accompanying a photo, all of which will be superimposed on a large background image of a desert
-				texturescape.
+			<li><strong>Splash:</strong> The landing page-view and first seen section will consist of my portrait,
+				name, and a list display with punchy titles accompanied by icons hyperlinked to appropriate media: I.E. "Fullstack Developer" accompanied by a github icon.
+				Also in this section will be a button labeled PhotoJournals that presents a Bootstrap Modal describing the concept of the next section
+				and offering instructions to the end user. Next to the button are the thumbnails of each of my current hosted PhotoJournals.
 			</li>
-			<li><strong>PhotoJournals:</strong> I want this to be a responsive Javascript-enabled page component featuring
-						4-7 embedded images each associated with an short article.The sidebar will cleanly display the
-						inactive images and in the center will be the active image larger and in a simple frame, with the
-						article text displayed alongside.clicking one of the inactive buttons or arrows nearby will cycle the
-						next image to the forefront and display its associated text.
+			<li><strong>PhotoJournals:</strong> I want this to be a responsive Javascript-enabled page component that will host 4-7 "PhotoJournals".
+				The section will cleanly display one of my PhotoJournals: a single image in a rounded frame and similar to a Bootstrap card with a short title and
+				a piece of flash fiction relating to the photo, which I describe as the "Journal". Beneath and/or beside the image will
+				be a minimalist pager that allows the user to click previous or next, and functionally go to the next PhotoJournal. As needed this section may have a
+				separate container background overlaid on the general site for ease of viewing.
 			</li>
-			<li><strong>Skills</strong>: This section will display my skill-set in punchy, simple labels around a central
-				image. I will have the bottom third of the mobile screen and side panel of the horizontal section on desktop
-				as a simple contact form.The content will
-				be shown in a sleek and professional tone as I am looking to portray myself as an informed,
-				innovation-minded developer.
+			<li><strong>Contact Me:</strong>: This section will display a punchy, simple contact form. Their will be fields
+				for input of name, email, and the actual message with corresponding iconography. this will be floating and isolated
+				in the center of the section for a no-nonsense, professional tone.
 			</li>
 		</ol>
-		<p>Finally, all of these page- views will feature a small footer with functional iconography representing my
-			social media links: Github, LinkedIn, and Instagram.</p>
+		<p>These sections will be separated by minimalist dividers that span across the screen.</p>
 
 		<h2>Wireframe Images</h2>
 		<a href="pwp_mobile.png">Mobile</a>
