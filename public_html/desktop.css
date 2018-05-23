@@ -1,6 +1,17 @@
 .redbar{
 	display: flex;
 	background-color: #720808;
-	size: landscape;
+	height: 10vh;
+	border: .5rem outset #ff1101
 
+}
+.bgimg {
+	background-image:url("/images/concert-3387324_1920.jpg");
+	background-size: cover;
+	background-position: top right;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+.bgimg h1{
+	font-family: "Bauhaus 93",sans-serif;
 }

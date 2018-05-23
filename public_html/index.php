@@ -17,11 +17,22 @@
 		<title>GladLad</title>
 	</head>
 	<body>
-
+		<section>
+			<div class="container-fluid bgimg" >
+				<div class="row-fluid">
+					<div class="column">
+						<div class="container pt-5">
+							<h1 class="display-3 text-center font-weight-bold">GUS LIAKOS</h1>
+							<p class="lead text-center">Web Development, Msdfdasdfadsfadf,asdfadsfadf</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 		<section>
 			<div class="container">
 				<div class="d-flex ml-5 redbar"></div>
-				<img class = "img rounded-circle" src="images/oie_2320438ry3Ct64E.png" alt="img">
+				<img class = "img-fluid rounded-circle" src="images/oie_2320438ry3Ct64E.png" alt="img">
 <!--				<div id="linkbox">-->
 <!--					<div class="btn-group-lg"></div>-->
 <!--					<button type="button" class="btn btn-secondary mr-3 ml-5">github</button>-->
@@ -72,23 +83,24 @@
 <!--						</div>-->
 <!--					</div>-->
 <!--				</div>-->
-				<div class="card">
-					<img class="card-img-top h-75" src="images/man-1351317.svg" alt="Card image cap">
+				<div class="card col-md-3 pt-2">
+					<img class="card-img-top" src="images/anise-1971492_640.jpg" alt="Card image cap">
 					<div class="card-body">
 						<div class="btn-toolbar">
 														<div class="btn-group" role="group" >
 															<button type="button" class="btn btn-secondary">1</button>
 															<button type="button" class="btn btn-secondary">2</button>
 															<button type="button" class="btn btn-secondary">3</button>
+															<button type="button" class="btn btn-secondary">more</button>
 														</div>
-						<a href="#!" class="btn btn-primary">Go somewhere</a>
+<!--						<a href="#!" class="btn btn-primary">Go somewhere</a>-->
 					</div>
 				</div>
 				</div>
 
 
 				<!--				<--java script hiding ability?-->
-				<div class="card-body d-flex flex-column">
+				<div class="card-body d-flex flex-column col-md-9">
 					<h4 class="card-title order-1 d-block">ALABAMA SUNSHINE</h4>
 					<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>
 					<p class="card-text order-3 p-1">
@@ -131,6 +143,46 @@
 				</div>
 			</div>
 		</section>
+		<section>
+			<div class="container-fluid" id="contact-section">
+				<div class="container">
+					<div class="row ml-1">
+						<div class="column pt-5 mb-5 pb-5 col-12">
+							<h2>Contact</h2>
+							<form id="contact-form" class="form-horizontal well">
+								<div class="form-group">
+									<label for="name">Name</label>
+									<div class="input-group">
+										<div class="input-group-addon">
+										</div>
+										<input type="text" class="form-control" id="contactFormName" name="contactFormName" placeholder="Your name">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="email">Email address</label>
+									<div class="input-group">
+										<div class="input-group-addon">
+										</div>
+										<input type="email" class="form-control" id="contactFormEmail" name="contactFormEmail" placeholder="Your email address">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="subject">Subject</label>
+									<div class="input-group">
+										<div class="input-group-addon">
+										</div>
+										<input type="text" class="form-control" id="contactFormSubject" name="contactFormSubject" placeholder="Email subject line">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="message">Message</label>
+									<div class="input-group">
+										<div class="input-group-addon">
+										</div>
+										<textarea class="form-control" rows="5" id="contactFormMessage" name="contactFormMessage" placeholder="Message for Me":></textarea>
+									</div>
+								</div>
 
+								</div>
 	</body>
 </html>
