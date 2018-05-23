@@ -32,7 +32,7 @@
 		<section>
 			<div class="container">
 				<div class="d-flex ml-5 redbar"></div>
-				<img class = "img-fluid rounded-circle" src="images/oie_2320438ry3Ct64E.png" alt="img">
+				<img class = "img-fluid rounded-circle" src="images/boxman.png" alt="img">
 <!--				<div id="linkbox">-->
 <!--					<div class="btn-group-lg"></div>-->
 <!--					<button type="button" class="btn btn-secondary mr-3 ml-5">github</button>-->
@@ -84,7 +84,7 @@
 <!--					</div>-->
 <!--				</div>-->
 				<div class="card col-md-3 pt-2">
-					<img class="card-img-top" src="images/anise-1971492_640.jpg" alt="Card image cap">
+					<img class="card-img-top" src="images/flower.jpg" alt="Card image cap">
 					<div class="card-body">
 						<div class="btn-toolbar">
 														<div class="btn-group" role="group" >
@@ -136,13 +136,13 @@
 		<div class="container">
 			<div class="d-flex ml-5 redbar"></div>
 		</div>
-		<section id=" contact">
-			<div class="container">
-				<div>
-					<form action=""></form>
-				</div>
-			</div>
-		</section>
+<!--		<section id=" contact">-->
+<!--			<div class="container">-->
+<!--				<div>-->
+<!--					<form action=""></form>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--		</section>-->
 		<section>
 			<div class="container-fluid" id="contact-section">
 				<div class="container">
