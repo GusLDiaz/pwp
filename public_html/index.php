@@ -15,9 +15,35 @@
 		<title>GladLad</title>
 	</head>
 	<body>
-		<div class="d-flex ml-5 redbar"></div>
+
 		<section>
-			<div class="container"></div>
+			<div class="container">
+				<div class="d-flex ml-5 redbar"></div>
+				<img class = "img rounded-circle" src="images/oie_2320438ry3Ct64E.png" alt="img">
+<!--				<div id="linkbox">-->
+<!--					<div class="btn-group-lg"></div>-->
+<!--					<button type="button" class="btn btn-secondary mr-3 ml-5">github</button>-->
+<!--					<button type="button" class="btn btn-secondary ml-3" >instagram</button>-->
+<!--					<button type="button" class="btn btn-secondary mr-3 ml-5">i</button>-->
+<!--					<button type="button" class="btn btn-secondary ml-3" >i</button>-->
+<!--				</div>-->
+				<ul class="list-group">
+					<li class="list-group-item d-flex justify-content-between align-items-center">
+					Developer
+						<span class="badge badge-primary badge-pill">github</span>
+					</li>
+					<li class="list-group-item d-flex justify-content-between align-items-center">
+					Photographer
+						<span class="badge badge-primary badge-pill">IG</span>
+					</li>
+					<li class="list-group-item d-flex justify-content-between align-items-center">
+					Writer
+						<span class="badge badge-primary badge-pill">Medium</span>
+					</li>
+				</ul>
+
+
+			</div>
 		</section>
 		<div class="container">
 			<div class="d-flex ml-5 redbar"></div>
@@ -25,7 +51,7 @@
 		<section>
 			<div class="d-flex ml-5">
 				<div class="d-inline-block">
-					<img class="img-fluid rounded flex-shrink-1" src="man-1351317.svg" alt="Card image cap">
+					<img class="img-fluid rounded flex-shrink-1" src="images/man-1351317.svg" alt="Card image cap">
 					<div class="ml-5 align-content-center">
 						<div class="btn-group btn-group-lg align-items-center" aria-label="Gus">
 							<button type="button" class="btn btn-secondary mr-3 ml-5" id="left"><</button>
@@ -69,13 +95,13 @@
 		<div class="container">
 			<div class="d-flex ml-5 redbar"></div>
 		</div>
-<section id=" contact">
-	<div class = "container">
-		<div>
-			<form action=""></form>
-		</div>
-	</div>
-</section>
+		<section id=" contact">
+			<div class="container">
+				<div>
+					<form action=""></form>
+				</div>
+			</div>
+		</section>
 
 	</body>
 </html>
