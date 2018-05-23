@@ -1,17 +1,9 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Gusli
- * Date: 5/19/2018
- * Time: 11:39 AM
- */
-?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" >
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
 		<link rel="stylesheet" href="desktop.css">
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"
@@ -20,20 +12,70 @@
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"
 				  integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm"
 				  crossorigin="anonymous"></script>
-		<title>Title</title>
+		<title>GladLad</title>
 	</head>
 	<body>
+		<div class="d-flex ml-5 redbar"></div>
+		<section>
+			<div class="container"></div>
+		</section>
 		<div class="container">
-			<div class="jumbotron">
-				<h1 class="display-4">Hello, world!</h1>
-				<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra
-					attention to featured content or information.</p>
-				<hr class="my-4">
-				<p>It uses utility classes for typography and spacing to space content out within the larger
-					container.</p>
-				<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-			</div>
+			<div class="d-flex ml-5 redbar"></div>
 		</div>
-		<div class="redbar mx3"></div>
-		<div></div>
+		<section>
+			<div class="d-flex ml-5">
+				<div class="d-inline-block">
+					<img class="img-fluid rounded flex-shrink-1" src="man-1351317.svg" alt="Card image cap">
+					<div class="ml-5 align-content-center">
+						<div class="btn-group btn-group-lg align-items-center" aria-label="Gus">
+							<button type="button" class="btn btn-secondary mr-3 ml-5" id="left"><</button>
+							<button type="button" class="btn btn-secondary ml-3" id="right">></button>
+						</div>
+					</div>
+				</div>
+				<div class="card-body d-flex flex-column">
+					<h4 class="card-title order-1 d-block">ALABAMA SUNSHINE</h4>
+					<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>
+					<p class="card-text order-3 p-1">
+						and make up the bulk of the card's content.Tumeric pop-up lumbersexual, aliquip ea four dollar
+						toast
+						deep v palo santo XOXO air plant seitan green juice unicorn. YOLO magna sed nostrud craft beer,
+						+1
+						vinyl photo booth sriracha four dollar toast butcher. Tattooed taxidermy authentic, trust fund
+						forage
+						dreamcatcher narwhal lyft cloud bread kombucha lomo wolf pork belly. Schlitz hell of wolf
+						Letterpress marfa kinfolk raclette. Adipisicing fam quis, exercitation irure fixie food truck
+						vegan
+						cronut lyft ullamco. Listicle iPhone occaecat jianbing chia. Meh bespoke leggings post-ironic.
+						Chartreuse ullamco deep v, kombucha hoodie gochujang ugh listicle beard subway tile pop-up
+						microdosing
+						typewriter enim. You probably haven't heard of them hashtag fanny pack,
+						mumblecore church-key williamsburg incididunt pug biodiesel. Williamsburg green juice dolore
+						enamel
+						pin nisi artisan magna est cray proident poutine truffaut.
+						+1 vaporware
+						I bet you’re still using Bootstrap too…
+						The Lab Bunny — One time beauty school suspendee, two time college dropout, full time lipstick
+						hoarder. Libra. Non-smoker. DTF
+					</p>
+					<a href="#!" class="btn btn-success order-8">full story</a>
+				</div>
+			</div>
+
+		</section>
+		<section>
+			<div class="container"></div>
+		</section>
+		<div class="container">
+			<div class="d-flex ml-5 redbar"></div>
+		</div>
+<section id=" contact">
+	<div class = "container">
+		<div>
+			<form action=""></form>
+		</div>
+	</div>
+</section>
+
 	</body>
+</html>
