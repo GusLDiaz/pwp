@@ -27,18 +27,19 @@
 <!--					<button type="button" class="btn btn-secondary mr-3 ml-5">i</button>-->
 <!--					<button type="button" class="btn btn-secondary ml-3" >i</button>-->
 <!--				</div>-->
-				<ul class="list-group">
-					<li class="list-group-item d-flex justify-content-between align-items-center">
+				<ul class="list-group d-inline-flex">
+					<li class="list-group-item p  justify-content-between align-items-center">
 					Developer
 						<span class="badge badge-primary badge-pill">github</span>
 					</li>
-					<li class="list-group-item d-flex justify-content-between align-items-center">
+					<li class="list-group-item-dark  justify-content-between align-items-center">
 					Photographer
 						<span class="badge badge-primary badge-pill">IG</span>
 					</li>
-					<li class="list-group-item d-flex justify-content-between align-items-center">
+					<li class="list-group-item-success  justify-content-between align-items-center">
 					Writer
 						<span class="badge badge-primary badge-pill">Medium</span>
+						<button class="btn-link">1</button>
 					</li>
 				</ul>
 
@@ -53,12 +54,26 @@
 				<div class="d-inline-block">
 					<img class="img-fluid rounded flex-shrink-1" src="images/man-1351317.svg" alt="Card image cap">
 					<div class="ml-5 align-content-center">
-						<div class="btn-group btn-group-lg align-items-center" aria-label="Gus">
-							<button type="button" class="btn btn-secondary mr-3 ml-5" id="left"><</button>
-							<button type="button" class="btn btn-secondary ml-3" id="right">></button>
+<!--						<div class="btn-group btn-group-lg " aria-label="Gus">-->
+<!--							<button type="button" class="btn btn-secondary mr-3 ml-5" id="left"><</button>-->
+<!--							<button type="button" class="btn btn-secondary ml-3" id="right">></button>-->
+<!--						</div>--><div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
+							<div class="btn-group" role="group" aria-label="First group">
+								<button type="button" class="btn btn-secondary">1</button>
+								<button type="button" class="btn btn-secondary">2</button>
+								<button type="button" class="btn btn-secondary">3</button>
+							</div>
+							<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+							<div class="btn-group" role="group" aria-label="Third group">
+								<button type="button" class="btn btn-secondary">more</button>
+							</div>
 						</div>
+
+
 					</div>
 				</div>
+
+<!--				<--java script hiding ability?-->-->
 				<div class="card-body d-flex flex-column">
 					<h4 class="card-title order-1 d-block">ALABAMA SUNSHINE</h4>
 					<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>
