@@ -1,3 +1,7 @@
+.whole{
+	background-color: rgba(200,200,220,30);
+
+}
 .redbar{
 	display: flex;
 	background-color: #720808;
@@ -14,4 +18,17 @@
 }
 .bgimg h1{
 	font-family: "Bauhaus 93",sans-serif;
+}
+
+.bgimg2 {
+	background-image: url("images/boxman2.png");
+}
+
+.about {
+	width: 100vw;
+	height: 88vh;
+}
+
+#contact-section {
+	font-family: "Onyx";
 }

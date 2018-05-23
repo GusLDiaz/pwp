@@ -16,7 +16,7 @@
 				  crossorigin="anonymous"></script>
 		<title>GladLad</title>
 	</head>
-	<body>
+	<body class="whole">
 		<section>
 			<div class="container-fluid bgimg" >
 				<div class="row-fluid">
@@ -30,9 +30,9 @@
 			</div>
 		</section>
 		<section>
-			<div class="container">
+			<div class="container about h-90 w-100">
 				<div class="d-flex ml-5 redbar"></div>
-				<img class = "img-fluid rounded-circle" src="images/boxman.png" alt="img">
+<!--				<img class = "img-fluid rounded-circle" src="images/boxman.png" alt="img">-->
 <!--				<div id="linkbox">-->
 <!--					<div class="btn-group-lg"></div>-->
 <!--					<button type="button" class="btn btn-secondary mr-3 ml-5">github</button>-->
@@ -55,8 +55,6 @@
 						<button class="btn-link">1</button>
 					</li>
 				</ul>
-
-
 			</div>
 		</section>
 		<div class="container">
