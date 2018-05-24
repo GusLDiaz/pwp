@@ -30,18 +30,10 @@
 			</div>
 		</section>
 		<section>
-			<div class="container about h-90 w-100">
-				<div class="d-flex ml-5 redbar"></div>
-<!--				<img class = "img-fluid rounded-circle" src="images/boxman.png" alt="img">-->
-<!--				<div id="linkbox">-->
-<!--					<div class="btn-group-lg"></div>-->
-<!--					<button type="button" class="btn btn-secondary mr-3 ml-5">github</button>-->
-<!--					<button type="button" class="btn btn-secondary ml-3" >instagram</button>-->
-<!--					<button type="button" class="btn btn-secondary mr-3 ml-5">i</button>-->
-<!--					<button type="button" class="btn btn-secondary ml-3" >i</button>-->
-<!--				</div>-->
-				<ul class="list-group d-inline-flex">
-					<li class="list-group-item-dark pb3 justify-content-between align-items-center">
+			<div class="container about h-90 w-100 align-items-center">
+			<img src="images/man-1351317.svg" alt="ricky" class="img-fluid col-md-2">
+				<ul class="list-group d-inline col-md-6">
+					<li class="list-group-item-dark pb3 justify-content-between ">
 					Developer
 						<span class="badge badge-primary badge-pill">github</span>
 					</li>
@@ -51,7 +43,7 @@
 					</li>
 					<li class="list-group-item-dark justify-content-between align-items-center">
 					Writer
-						<span class="badge badge-primary badge-pill">Medium</span>
+						<span class="badge badge-primary badge-pill" href="#1">Medium</span>
 						<button class="btn-link">1</button>
 					</li>
 				</ul>
@@ -83,13 +75,14 @@
 <!--				</div>-->
 				<div class="card col-md-3 pt-2">
 					<img class="card-img-top" src="images/flower.jpg" alt="Card image cap">
-					<div class="card-body">
-						<div class="btn-toolbar">
+					<div class="card-body align-items-center frac">
+						<div class="btn-toolbar  d-flex">
 														<div class="btn-group" role="group" >
 															<button type="button" class="btn btn-secondary">1</button>
 															<button type="button" class="btn btn-secondary">2</button>
 															<button type="button" class="btn btn-secondary">3</button>
 															<button type="button" class="btn btn-secondary">more</button>
+
 														</div>
 <!--						<a href="#!" class="btn btn-primary">Go somewhere</a>-->
 					</div>
@@ -142,39 +135,39 @@
 <!--			</div>-->
 <!--		</section>-->
 		<section>
-			<div class="container-fluid" id="contact-section">
+			<div class="container-fluid frac" id="contact-section">
 				<div class="container">
 					<div class="row ml-1">
-						<div class="column pt-5 mb-5 pb-5 col-12">
+						<div class="column pt-5 mb-5 pb-5 col-12 darkfont">
 							<h2>Contact</h2>
 							<form id="contact-form" class="form-horizontal well">
 								<div class="form-group">
-									<label for="name">Name</label>
-									<div class="input-group">
+									<label class="darkfont" for="name">Name</label>
+									<div class="input-group border">
 										<div class="input-group-addon">
 										</div>
 										<input type="text" class="form-control" id="contactFormName" name="contactFormName" placeholder="Your name">
 									</div>
 								</div>
 								<div class="form-group">
-									<label for="email">Email address</label>
-									<div class="input-group">
+									<label class="darkfont " for="email">Email address</label>
+									<div class="input-group border">
 										<div class="input-group-addon">
 										</div>
 										<input type="email" class="form-control" id="contactFormEmail" name="contactFormEmail" placeholder="Your email address">
 									</div>
 								</div>
 								<div class="form-group">
-									<label for="subject">Subject</label>
-									<div class="input-group">
+									<label for="subject" class="darkfont">Subject</label>
+									<div class="input-group border">
 										<div class="input-group-addon">
 										</div>
 										<input type="text" class="form-control" id="contactFormSubject" name="contactFormSubject" placeholder="Email subject line">
 									</div>
 								</div>
 								<div class="form-group">
-									<label for="message">Message</label>
-									<div class="input-group">
+									<label for="message" class="darkfont">Message</label>
+									<div class="input-group border">
 										<div class="input-group-addon">
 										</div>
 										<textarea class="form-control" rows="5" id="contactFormMessage" name="contactFormMessage" placeholder="Message for Me":></textarea>

@@ -29,6 +29,22 @@
 	height: 88vh;
 }
 
-#contact-section {
-	font-family: "Onyx";
+
+}
+h1 { font-family: "Kimberley", sans-serif }
+#contact-section {}
+font-family:
+
+li {
+	 list-style-image: url("images/arrow-pointing-to-right.svg");
+}
+.card{
+	margin: 0;
+	padding: 0;
+}
+.frac{
+	background-image: url("images/irony.png");
+}
+.darkfont{
+	color: antiquewhite;
 }
