@@ -5,7 +5,7 @@
 .redbar{
 	display: flex;
 	background-color: #720808;
-	height: 10vh;
+	height: 6vh;
 	border: .5rem outset #ff1101
 
 }
@@ -44,7 +44,15 @@ li {
 }
 .frac{
 	background-image: url("images/irony.png");
+	background-position: top right;
+	background-repeat: no-repeat;
 }
 .darkfont{
 	color: antiquewhite;
+}
+#tbox{
+	height:50%;
+	overflow: auto;
+	background-color: antiquewhite;
+
 }

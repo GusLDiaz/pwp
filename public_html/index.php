@@ -23,30 +23,27 @@
 					<div class="column">
 						<div class="container pt-5">
 							<h1 class="display-3 text-center font-weight-bold">GUS LIAKOS</h1>
-							<p class="lead text-center">Web Development, Msdfdasdfadsfadf,asdfadsfadf</p>
+							<p class="lead text-center border">Web Development, Msdfdasdfadsfadf,asdfadsfadf</p>
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
 		<section>
-			<div class="container about h-90 w-100 align-items-center">
-			<img src="images/man-1351317.svg" alt="ricky" class="img-fluid col-md-2">
-				<ul class="list-group d-inline col-md-6">
-					<li class="list-group-item-dark pb3 justify-content-between ">
+			<div class="container about d-flex h-90 w-100 ">
+			<img src="images/lionteeth.jpg" alt="ricky" class="img-fluid rounded circle col-sm-2 col-md-6">
+				<div class="list-group flex-grow">
+					<a class="list-group-item-dark pb3 display-2 ">
 					Developer
-						<span class="badge badge-primary badge-pill">github</span>
-					</li>
-					<li class="list-group-item-dark  justify-content-between align-items-center">
+					</a>
+					<a class="list-group-item-dark  display-3 justify-content-between align-items-center">
 					Photographer
-						<span class="badge badge-primary badge-pill">IG</span>
-					</li>
-					<li class="list-group-item-dark justify-content-between align-items-center">
+					</a>
+					<a class="list-group-item-dark display-4 justify-content-between align-items-center">
 					Writer
-						<span class="badge badge-primary badge-pill" href="#1">Medium</span>
-						<button class="btn-link">1</button>
-					</li>
-				</ul>
+						<span class="badge badge-primary badge-pill lead badge-dark" href="#!">Medium</span>
+					</a>
+				</div>
 			</div>
 		</section>
 		<div class="container">
@@ -75,7 +72,7 @@
 <!--				</div>-->
 				<div class="card col-md-3 pt-2">
 					<img class="card-img-top" src="images/flower.jpg" alt="Card image cap">
-					<div class="card-body align-items-center frac">
+					<div class="card-body align-items-center bg-dark">
 						<div class="btn-toolbar  d-flex">
 														<div class="btn-group" role="group" >
 															<button type="button" class="btn btn-secondary">1</button>
@@ -94,7 +91,7 @@
 				<div class="card-body d-flex flex-column col-md-9">
 					<h4 class="card-title order-1 d-block">ALABAMA SUNSHINE</h4>
 					<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>
-					<p class="card-text order-3 p-1">
+					<p class="card-text order-3 p-1" id="tbox">
 						and make up the bulk of the card's content.Tumeric pop-up lumbersexual, aliquip ea four dollar
 						toast
 						deep v palo santo XOXO air plant seitan green juice unicorn. YOLO magna sed nostrud craft beer,
