@@ -14,6 +14,8 @@
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"
 				  integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm"
 				  crossorigin="anonymous"></script>
+		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 		<title>GladLad</title>
 	</head>
 	<body class="whole">
@@ -30,16 +32,16 @@
 			</div>
 		</section>
 		<section>
-			<div class="container about d-flex h-90 w-100 ">
-			<img src="images/lionteeth.jpg" alt="ricky" class="img-fluid rounded circle col-sm-2 col-md-6">
-				<div class="list-group flex-grow">
-					<a class="list-group-item-dark pb3 display-2 ">
+			<div class="container about d-flex flex-sm-wrap mw-100 ">
+			<img src="images/lionteeth.jpg" alt="ricky" class="img-fluid rounded-circle col-sm-12 col-md-6 row-sm-12">
+				<div class="list-group flex-grow align-self-end rounded b border-dark">
+					<a class="list-group-item-dark pb-3 display-2 pr-2 ">
 					Developer
 					</a>
-					<a class="list-group-item-dark  display-3 justify-content-between align-items-center">
+					<a class="list-group-item-dark pb-3 pr-2 display-4 justify-content-between align-items-center">
 					Photographer
 					</a>
-					<a class="list-group-item-dark display-4 justify-content-between align-items-center">
+					<a class="list-group-item-dark display-4 pb-3 justify-content-between align-items-center">
 					Writer
 						<span class="badge badge-primary badge-pill lead badge-dark" href="#!">Medium</span>
 					</a>
@@ -47,10 +49,10 @@
 			</div>
 		</section>
 		<div class="container">
-			<div class="d-flex ml-5 redbar"></div>
+			<div class="d-flex ml-md-4 ml-sm-1 redbar"></div>
 		</div>
 		<section>
-			<div class="d-flex ml-5">
+			<div class="d-flex ml-md-5 ml-sm-1">
 <!--				<div class="d-inline-block">-->
 <!--					<img class="img-fluid rounded flex-shrink-2" src="images/man-1351317.svg" alt="Card image cap">-->
 <!--					<div class="ml-5 align-content-center">-->

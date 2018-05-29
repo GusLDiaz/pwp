@@ -27,14 +27,8 @@
 .about {
 	width: 100vw;
 	height: 88vh;
+	border-top: .8rem outset #720808;
 }
-
-
-}
-h1 { font-family: "Kimberley", sans-serif }
-#contact-section {}
-font-family:
-
 li {
 	 list-style-image: url("images/arrow-pointing-to-right.svg");
 }
@@ -56,3 +50,10 @@ li {
 	background-color: antiquewhite;
 
 }
+$('.one-time').slick({
+	dots: true,
+	infinite: true,
+	speed: 300,
+	slidesToShow: 1,
+	adaptiveHeight: true
+});
