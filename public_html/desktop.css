@@ -3,7 +3,7 @@
 
 }
 .redbar{
-	display: flex;
+	display: block;
 	background-color: #720808;
 	height: 6vh;
 	border: .5rem outset #ff1101
@@ -29,9 +29,6 @@
 	height: 88vh;
 	border-top: .8rem outset #720808;
 }
-li {
-	 list-style-image: url("images/arrow-pointing-to-right.svg");
-}
 .card{
 	margin: 0;
 	padding: 0;
@@ -47,13 +44,4 @@ li {
 #tbox{
 	height:50%;
 	overflow: auto;
-	background-color: antiquewhite;
-
-}
-$('.one-time').slick({
-	dots: true,
-	infinite: true,
-	speed: 300,
-	slidesToShow: 1,
-	adaptiveHeight: true
-});
+	background-color: antiquewhite;}
