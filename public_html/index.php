@@ -32,6 +32,11 @@
 		<!--Favicon setup -->
 		<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+		<!-- Your JavaScript Form Validator -->
+		<script src="./validator.js"></script>
+		<!-- Google Recaptcha -->
+		<script src="https://www.google.com/recaptcha/api.js"></script>
 		<title>GladLad</title>
 	</head>
 	<body class="whole">
@@ -191,7 +196,7 @@
 										<div class="input-group-addon">
 										</div>
 										<textarea class="form-control" rows="5" id="contactFormMessage" name="contactFormMessage"
-													 placeholder="Message for Me" :></textarea>
+													 placeholder="Message for Me:"></textarea>
 									</div>
 								</div>
 
