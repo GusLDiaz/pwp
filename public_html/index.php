@@ -17,7 +17,8 @@
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"
 				  integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm"
 				  crossorigin="anonymous"></script>
-
+		<!--Font Awesome-->
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 		<!-- Slick: -->
 		<!--		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>-->
 		<!--		<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.0/slick/slick.min.js"></script>-->
@@ -33,6 +34,7 @@
 		<title>GladLad</title>
 	</head>
 	<body class="whole">
+		<!-- hero Section -->
 		<section>
 			<div class="container-fluid bgimg">
 				<div class="row-fluid">
@@ -71,78 +73,76 @@
 							<button class="dropdown-item" type="button">Medium</button>
 						</div>
 					</div>
-					<!--						<button type="button" class="btn btn-secondary">Example Button floated right</button>-->
 				</div>
-
+			</div>
+			</div>
+		</section>
+		<div class="container-fluid">
+			<div class="ml-md-4 ml-sm-1 redbar"></div>
 		</div>
-	</div>
-</section>
-<div class="container">
-	<div class="ml-md-4 ml-sm-1 redbar"></div>
-</div>
-<section>
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-md-4">
-				<div id="carouselStories" class="carousel slide carousel-fade" data-ride="carousel">
-					<div class="carousel-inner" role="listbox">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="images/flower.jpg" alt="First slide">
+		<section>
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-4">
+						<div id="carouselStories" class="carousel slide carousel-fade" data-ride="carousel">
+							<div class="carousel-inner" role="listbox">
+								<div class="carousel-item active">
+									<img class="d-block w-100" src="images/flower.jpg" alt="First slide">
+								</div>
+								<div class="carousel-item">
+									<img class="d-block w-100" src="images/test-portrait.jpg" alt="Second slide">
+								</div>
+								<div class="carousel-item">
+									<img class="d-block w-100" src="images/test-honey.jpg" alt="Third slide">
+								</div>
+							</div>
+							<a class="carousel-control-prev" href="#carouselStories" role="button" data-slide="prev">
+								<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+								<span class="sr-only">Previous</span>
+							</a>
+							<a class="carousel-control-next" href="#carouselStories" role="button" data-slide="next">
+								<span class="carousel-control-next-icon" aria-hidden="true"></span>
+								<span class="sr-only">Next</span>
+							</a>
 						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="images/test-portrait.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="images/test-honey.jpg" alt="Third slide">
+						<!--				<div class="row">-->
+						<!--					<div class="single-item pt-2">-->
+						<!--						<div><img src="images/flower.jpg" alt="Card image cap"></div>-->
+						<!--						<div><img src="images/test-portrait.jpg"></div>-->
+						<!--						<div><img src="images/test-honey.jpg"></div>-->
+						<!--					</div>-->
+						<!--				</div>-->
+					</div>
+					<div class="card col-sm-12 col-md-8 bg-dark">
+						<div class="card-body d-flex flex-column">
+							<h4 class="card-title order-1 d-block" id="print">ALABAMA SUNSHINE</h4>
+							<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>
+							<p class="card-text order-3 p-1" id="tbox">
+								and make up the bulk of the card's content.Tumeric pop-up lumbersexual, aliquip ea four dollar
+								toast
+								deep v palo santo XOXO air plant seitan green juice unicorn. YOLO magna sed nostrud craft beer,
+								+1
+								vinyl photo booth sriracha four dollar toast butcher. Tattooed taxidermy authentic, trust fund
+								forage
+								dreamcatcher narwhal lyft cloud bread kombucha lomo wolf pork belly. Schlitz hell of wolf
+								Letterpress marfa kinfolk raclette. Adipisicing fam quis, exercitation irure fixie food truck
+								vegan
+								cronut lyft ullamco. Listicle iPhone occaecat jianbing chia. Meh bespoke leggings post-ironic.
+								Chartreuse ullamco deep v, kombucha hoodie gochujang ugh listicle beard subway tile pop-up
+								microdosing
+								typewriter enim. You probably haven't heard of them hashtag fanny pack,
+								mumblecore church-key williamsburg incididunt pug biodiesel. Williamsburg green juice dolore
+								enamel
+								pin nisi artisan magna est cray proident poutine truffaut.
+								+1 vaporware
+								I bet you’re still using Bootstrap too…
+								The Lab Bunny — One time beauty school suspendee, two time college dropout, full time lipstick
+								hoarder. Libra. Non-smoker. DTF
+							</p>
+							<a href="#!" class="btn btn-success order-8">full story</a>
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#carouselStories" role="button" data-slide="prev">
-						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#carouselStories" role="button" data-slide="next">
-						<span class="carousel-control-next-icon" aria-hidden="true"></span>
-						<span class="sr-only">Next</span>
-					</a>
 				</div>
-				<!--				<div class="row">-->
-				<!--					<div class="single-item pt-2">-->
-				<!--						<div><img src="images/flower.jpg" alt="Card image cap"></div>-->
-				<!--						<div><img src="images/test-portrait.jpg"></div>-->
-				<!--						<div><img src="images/test-honey.jpg"></div>-->
-				<!--					</div>-->
-				<!--				</div>-->
-			</div>
-			<div class="card col-sm-12 col-md-8 bg-dark">
-				<div class="card-body d-flex flex-column">
-					<h4 class="card-title order-1 d-block" id="print">ALABAMA SUNSHINE</h4>
-					<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>
-					<p class="card-text order-3 p-1" id="tbox">
-						and make up the bulk of the card's content.Tumeric pop-up lumbersexual, aliquip ea four dollar
-						toast
-						deep v palo santo XOXO air plant seitan green juice unicorn. YOLO magna sed nostrud craft beer,
-						+1
-						vinyl photo booth sriracha four dollar toast butcher. Tattooed taxidermy authentic, trust fund
-						forage
-						dreamcatcher narwhal lyft cloud bread kombucha lomo wolf pork belly. Schlitz hell of wolf
-						Letterpress marfa kinfolk raclette. Adipisicing fam quis, exercitation irure fixie food truck
-						vegan
-						cronut lyft ullamco. Listicle iPhone occaecat jianbing chia. Meh bespoke leggings post-ironic.
-						Chartreuse ullamco deep v, kombucha hoodie gochujang ugh listicle beard subway tile pop-up
-						microdosing
-						typewriter enim. You probably haven't heard of them hashtag fanny pack,
-						mumblecore church-key williamsburg incididunt pug biodiesel. Williamsburg green juice dolore
-						enamel
-						pin nisi artisan magna est cray proident poutine truffaut.
-						+1 vaporware
-						I bet you’re still using Bootstrap too…
-						The Lab Bunny — One time beauty school suspendee, two time college dropout, full time lipstick
-						hoarder. Libra. Non-smoker. DTF
-					</p>
-					<a href="#!" class="btn btn-success order-8">full story</a>
-				</div>
-			</div>
-			</div>
 		</section>
 		<section>
 			<div class="container"></div>
@@ -196,6 +196,21 @@
 
 						</div>
 
+						<div class="g-recaptcha" data-sitekey="6LcnQF0UAAAAAG1JqX3ciH02G9dMXi1DBpldx9t0"></div>
+						<button class="btn btn-info" type="submit">Submit</button>
+						<button class="btn btn-default" type="reset">Reset</button>
+						</form>
+						<!-- END CONTACT FORM-->
+						<!-- for errors -->
+						<div id="output-area"></div>
+					</div><!-- /.col-sm-6 -->
+				</div><!-- /.row -->
+			</div>
 
+			<footer class="py-4 text-white">
+				<div class="container">
+					<a class="text-white" href="https://bootcamp-coders.cnm.edu/class-materials/jquery-validated-captcha-form/" target="_blank">Documentation</a> | <a class="text-white" href="https://github.com/rlewis2892/pwp-form-demo" target="_blank">GitHub</a>
+				</div>
+			</footer>
 	</body>
 </html>
