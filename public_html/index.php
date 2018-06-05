@@ -18,7 +18,8 @@
 				  integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm"
 				  crossorigin="anonymous"></script>
 		<!--Font Awesome-->
-		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+				integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 		<!-- Slick: -->
 		<!--		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>-->
 		<!--		<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.0/slick/slick.min.js"></script>-->
@@ -195,22 +196,25 @@
 								</div>
 
 						</div>
-
-						<div class="g-recaptcha" data-sitekey="6LcnQF0UAAAAAG1JqX3ciH02G9dMXi1DBpldx9t0"></div>
-						<button class="btn btn-info" type="submit">Submit</button>
-						<button class="btn btn-default" type="reset">Reset</button>
-						</form>
-						<!-- END CONTACT FORM-->
-						<!-- for errors -->
-						<div id="output-area"></div>
-					</div><!-- /.col-sm-6 -->
-				</div><!-- /.row -->
-			</div>
-
-			<footer class="py-4 text-white">
-				<div class="container">
-					<a class="text-white" href="https://bootcamp-coders.cnm.edu/class-materials/jquery-validated-captcha-form/" target="_blank">Documentation</a> | <a class="text-white" href="https://github.com/rlewis2892/pwp-form-demo" target="_blank">GitHub</a>
+					</div>
 				</div>
-			</footer>
+				<div class="g-recaptcha" data-sitekey="6LcnQF0UAAAAAG1JqX3ciH02G9dMXi1DBpldx9t0"></div>
+				<button class="btn btn-info" type="submit">Submit</button>
+				<button class="btn btn-default" type="reset">Reset</button>
+				</form>
+				<!-- END CONTACT FORM-->
+				<!-- for errors -->
+				<div id="output-area"></div>
+			</div><!-- /.col-sm-6 -->
+		</section><!-- /.row -->
+
+
+		<footer class="py-4 text-white">
+			<div class="container">
+				<a class="text-white"
+					href="https://bootcamp-coders.cnm.edu/class-materials/jquery-validated-captcha-form/" target="_blank">Documentation</a>
+				| <a class="text-white" href="https://github.com/rlewis2892/pwp-form-demo" target="_blank">GitHub</a>
+			</div>
+		</footer>
 	</body>
 </html>
