@@ -19,7 +19,14 @@
 .bgimg h1{
 	font-family: "Bauhaus 93",sans-serif;
 }
-
+.blockquote p{
+	font-family: "Courier New",sans-serif;
+	color: antiquewhite;
+}
+.blockquote cite{
+	font-family: "Courier New",sans-serif;
+	color: antiquewhite;
+}
 .bgimg2 {
 	background-image: url("images/boxman2.png");
 }

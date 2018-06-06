@@ -56,16 +56,14 @@
 		<section>
 			<div class="container-fluid about mw-100 mh-100 justify-content-right">
 				<!--			<img src="images/lionteeth.jpg" alt="ricky" class="rounded-circle col-xs-12 col-sm-12 col-md-6 row-sm-12">-->
-
-
-				<div class="d-flex flex-row-reverse border-warning">
-					<blockquote class="blockquote w-50 ">
+				<div class="d-flex flex-row-reverse align-items-end border-warning">
+					<blockquote class="blockquote w-50 bg-secondary rounded ">
 						<p class="mb-0">
 							Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to
 							make dreams come true and the tendency to miss lunch.
-
 						</p>
-						<footer class="blockquote-footer"><cite title="Source Title">Tim Berners-Lee</cite>
+						<footer class="blockquote-footer">
+							<cite title="Source Title">Tim Berners-Lee</cite>
 						</footer>
 					</blockquote>
 				</div>
@@ -88,8 +86,8 @@
 		<section>
 			<div class="container-fluid">
 				<div class="row">
-					<div class="col-md-4 mr-0 pr-0">
-						<div id="carouselStories" class="carousel slide carousel-fade" data-ride="carousel">
+					<div class="col-md-4 mr-md-0 mr-sm-1 pr-0">
+						<div id="carouselStories" class="carousel slide carousel-fade" data-interval= "false" data-ride="carousel">
 							<div class="carousel-inner" role="listbox">
 								<div class="carousel-item active">
 									<img class="d-block w-100" src="images/flower.jpg" alt="First slide">
@@ -101,22 +99,15 @@
 									<img class="d-block w-100" src="images/test-honey.jpg" alt="Third slide">
 								</div>
 							</div>
-							<a class="carousel-control-prev" href="#carouselStories" role="button" data-slide="prev">
+							<a class="carousel-control-prev" href="#carouselStories" id="prev" role="button" data-slide="prev">
 								<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 								<span class="sr-only">Previous</span>
 							</a>
-							<a class="carousel-control-next" href="#carouselStories" role="button" data-slide="next">
+							<a class="carousel-control-next" href="#carouselStories" id="next" role="button" data-slide="next">
 								<span class="carousel-control-next-icon" aria-hidden="true"></span>
 								<span class="sr-only">Next</span>
 							</a>
 						</div>
-						<!--				<div class="row">-->
-						<!--					<div class="single-item pt-2">-->
-						<!--						<div><img src="images/flower.jpg" alt="Card image cap"></div>-->
-						<!--						<div><img src="images/test-portrait.jpg"></div>-->
-						<!--						<div><img src="images/test-honey.jpg"></div>-->
-						<!--					</div>-->
-						<!--				</div>-->
 					</div>
 					<div class="card col-sm-12 col-md-8 bg-secondary">
 						<div class="card-body d-flex flex-column">
