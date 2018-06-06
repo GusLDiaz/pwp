@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -70,12 +70,12 @@
 				<div class="btn-group float-right">
 					<button type="button" class="btn btn-secondary display-1 dropdown-toggle" data-toggle="dropdown"
 							  aria-haspopup="true" aria-expanded="false">
-						Find Me on:
+						Find Me On:
 					</button>
 					<div class="dropdown-menu dropdown-menu-right">
-						<button class="dropdown-item" type="button">Github   <i href="https://github.com/gusldiaz" target="_blank" class="fab fa-github"></i></button>
-						<button class="dropdown-item" type="button">LinkedIn <i href="https://www.linkedin.com/in/gusliakos" class="fab fa-linkedin-in"> </i></button>
-						<button class="dropdown-item" type="button">Medium</button>
+						<a class="dropdown-item" href="https://github.com/gusldiaz"><button  type="button">Github </button><i class="fab fa-github"></i></a>
+						<a class="dropdown-item" href="https://www.linkedin.com/in/gusliakos"><button  type="button">LinkedIn </button><i class="fab fa-linkedin-in"></i></a>
+						<a class="dropdown-item"><button type="button">Medium</button></a>
 					</div>
 				</div>
 			</div>
