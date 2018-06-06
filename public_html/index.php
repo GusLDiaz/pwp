@@ -100,7 +100,7 @@
 									<img class="d-block w-100" src="images/test-honey.jpg" alt="Third slide">
 								</div>
 							</div>
-							<a class="carousel-control-prev" href="#carouselStories" id="prev" role="button" data-slide="prev">
+							<a class="carousel-control-prev" href="#carouselStories" id="gus" role="button" data-slide="prev">
 								<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 								<span class="sr-only">Previous</span>
 							</a>
