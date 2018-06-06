@@ -33,8 +33,7 @@ $(document).ready(function() {
 		function storyActivate() {
 			var target = document.getElementById("story");
 			if(stories[storyCounter] === "story-0") {
-				$(target).html("<div class=\"card-body d-flex flex-column\" id=\"story-0\"> <h4 class=\"card-title order-1 d-block\">ALABAMA SUNSHINE</h4> <h6 class= \"card-subtitle mb-2 text-muted d-block order-2\" > When Two	Was Too Many </h6>" + '\\n\' +\n' + '\t\t\t\'\\t\\t\\t\\t\\t\\t\\t<p class="card-text order-3 p-1" id="tbox">\\n\' +\n' +
-					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\tand make up the bulk of the card\\\'s content.Tumeric pop-up lumbersexual, aliquip ea four dollar\\n\' +\n' +
+				$(target).html('<div class=\"card-body d-flex flex-column\" id=\"story-0\"><h4 class=\"card-title order-1 d-block\">ALABAMA SUNSHINE</h4><h6 class= \"card-subtitle mb-2 text-muted d-block order-2\"> When Two Was Too Many </h6><p class=\"card-text order-3 p-1\" id=\"tbox\">'+'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\tand make up the bulk of the card\\\'s content.Tumeric pop-up lumbersexual, aliquip ea four dollar\\n\' +\n' +
 					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\ttoast\\n\' +\n' +
 					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\tdeep v palo santo XOXO air plant seitan green juice unicorn. YOLO magna sed nostrud craft beer,\\n\' +\n' +
 					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\t+1\\n\' +\n' +
@@ -53,14 +52,11 @@ $(document).ready(function() {
 					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\t+1 vaporware\\n\' +\n' +
 					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\tI bet you’re still using Bootstrap too…\\n\' +\n' +
 					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\tThe Lab Bunny — One time beauty school suspendee, two time college dropout, full time lipstick\\n\' +\n' +
-					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\thoarder. Libra. Non-smoker. DTF\\n\' +\n' + "</p><a href=\"#!\" class=\"btn btn-success order-8\">full story</a></div>");
+					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\thoarder. Libra. Non-smoker. DTF\\n\' +\n</p><a href=\"#!\" class=\"btn btn-success order-8\">full story</a></div>');
 			} else if(stories[storyCounter] === "story-1") {
-				//better method 1
-				$(target).html = ("<div class=\"card-body d-flex flex-column\" id=\"story-0\"> <h4 class=\"card-title order-1 d-block\">ALABAMA SUNSHINE</h4>" + " <h6 class=\"card-subtitle mb-2 text-muted d-block order-2\">When Two Was Too Many</h6> <p class=\"card-text order-3 p-1\" id=\"tbox\">The bulk of the card's content.Tumeric pop-up lumbersexual, aliquip ea four dollartoast deep v palo santo XOXO air plant seitan green juice unicorn. YOLO magna sed nostrud craft beer, +1vinyl photo booth sriracha four dollar toast butcher. Tattooed taxidermy authentic, trust fundforage dreamcatcher narwhal lyft cloud bread kombucha lomo wolf pork belly. Schlitz hell of wolfLetterpress marfa kinfolk raclette. Adipisicing fam quis, exercitation irure fixie food truckvegan	cronut lyft ullamco. Listicle iPhone occaecat jianbing chia. Meh bespoke leggings post-ironic.Chartreuse ullamco deep v, kombucha hoodie gochujang ugh listicle beard subway tile pop-up microdosing	typewriter enim. You probably haven\'t heard of them hashtag fanny pack,mumblecore church-key williamsburg incididunt pug biodiesel. Williamsburg green juice doloreenamel pin nisi artisan magna est cray proident poutine truffaut. +1 vaporware I bet you’re still using Bootstrap too…The Lab Bunny One time beauty school suspendee, two time college dropout, full time lipstick hoarder. Libra. Non-smoker. DTF </p></div>");
+				$(target).html('<div class=\"card-body d-flex flex-column\" id=\"story-0\"><h4 class=\"card-title order-1 d-block\">GUS MADE THIS WORK</h4><h6 class=\"card-subtitle mb-2 text-muted d-block order-2\">When Two Was Too Many</h6><p class=\"card-text order-3 p-1\" id=\"tbox\">The bulk of the card\\\'s content.Tumeric pop-up lumbersexual, aliquip ea four dollartoast deep v palo santo XOXO air plant seitan green juice unicorn. YOLO magna sed nostrud craft beer, +1vinyl photo booth sriracha four dollar toast butcher. Tattooed taxidermy authentic, trust fundforage dreamcatcher narwhal lyft cloud bread kombucha lomo wolf pork belly. Schlitz hell of wolfLetterpress marfa kinfolk raclette. Adipisicing fam quis, exercitation irure fixie food truckvegan	cronut lyft ullamco. Listicle iPhone occaecat jianbing chia. Meh bespoke leggings post-ironic.Chartreuse ullamco deep v, kombucha hoodie gochujang ugh listicle beard subway tile pop-up microdosing	typewriter enim. You probably haven\'t heard of them hashtag fanny pack,mumblecore church-key williamsburg incididunt pug biodiesel. Williamsburg green juice doloreenamel pin nisi artisan magna est cray proident poutine truffaut. +1 vaporware I bet you’re still using Bootstrap too…The Lab Bunny One time beauty school suspendee, two time college dropout, full time lipstick hoarder. Libra. Non-smoker. DTF</p></div>');
 			} else if(stories[storyCounter] === "story-2") {
-				//better method 3
-				$(target).html("<div class=\"card-body d-flex flex-column\" id=\"story-2\"> <h4 class=\"card-title order-1 d-block\">TEA</h4> <h6 class= \"card-subtitle mb-2 text-muted d-block order-2\" > When Two	Was Too Many </h6>" + '\\n\' +\n' + '\t\t\t\'\\t\\t\\t\\t\\t\\t\\t<p class="card-text order-3 p-1" id="tbox">\\n\' +\n' +
-					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\tand make up the bulk of the card\\\'s content.Tumeric pop-up lumbersexual, aliquip ea four dollar\\n\' +\n' +
+				$(target).html('<div class=\"card-body d-flex flex-column\" id=\"story-2\"><h4 class=\" card-title order-1 d-block\">TEA</h4><h6 class= \"card-subtitle mb-2 text-muted d-block order-2\" > When Two	Was Too Many </h6><p class=\"card-text order-3 p-1\" id=\"tbox\">and make up the bulk of the card\\\'s content.Tumeric pop-up lumbersexual, aliquip ea four dollar\\n\' +\n' +
 					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\ttoast\\n\' +\n' +
 					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\tdeep v palo santo XOXO air plant seitan green juice unicorn. YOLO magna sed nostrud craft beer,\\n\' +\n' +
 					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\t+1\\n\' +\n' +
@@ -79,7 +75,7 @@ $(document).ready(function() {
 					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\t+1 vaporware\\n\' +\n' +
 					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\tI bet you’re still using Bootstrap too…\\n\' +\n' +
 					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\tThe Lab Bunny — One time beauty school suspendee, two time college dropout, full time lipstick\\n\' +\n' +
-					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\thoarder. Libra. Non-smoker. DTF\\n\' +\n' + "</p><a href=\"#!\" class=\"btn btn-success order-8\">full story</a></div>");
+					'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\thoarder. Libra. Non-smoker. DTF\\n\' +\n</p></div>');
 			}
 		}
 	});
