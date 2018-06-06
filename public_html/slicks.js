@@ -54,8 +54,8 @@ function storyActivate(i){
 			'\t\t\t\t\t\t\t<a href="#!" class="btn btn-success order-8">full story</a>\n' +
 			'\t\t\t\t\t\t</div>';
 	}else if (i == 1) {
-		$(".story").innerText = '<div class="card-body d-flex flex-column" id="story-0">\n' +
-			'\t\t\t\t\t\t\t<h4 class="card-title order-1 d-block">ALABAMA SUNSHINE</h4>\n' +
+		$(".story").innerText = '<div class="card-body d-flex flex-column" id="story-1">\n' +
+			'\t\t\t\t\t\t\t<h4 class="card-title order-1 d-block">HONEY</h4>\n' +
 			'\t\t\t\t\t\t\t<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>\n' +
 			'\t\t\t\t\t\t\t<p class="card-text order-3 p-1" id="tbox">\n' +
 			'\t\t\t\t\t\t\t\tand make up the bulk of the card\'s content.Tumeric pop-up lumbersexual, aliquip ea four dollar\n' +
@@ -82,8 +82,8 @@ function storyActivate(i){
 			'\t\t\t\t\t\t\t<a href="#!" class="btn btn-success order-8">full story</a>\n' +
 			'\t\t\t\t\t\t</div>';
 	}else if (i == 2) {
-		$(".story").innerText = '<div class="card-body d-flex flex-column" id="story-0">\\n\' +\n' +
-			'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t<h4 class="card-title order-1 d-block">ALABAMA SUNSHINE</h4>\\n\' +\n' +
+		$(".story").innerText = '<div class="card-body d-flex flex-column" id="story-2">\\n\' +\n' +
+			'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t<h4 class="card-title order-1 d-block">TEA</h4>\\n\' +\n' +
 			'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>\\n\' +\n' +
 			'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t<p class="card-text order-3 p-1" id="tbox">\\n\' +\n' +
 			'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t\\tand make up the bulk of the card\\\'s content.Tumeric pop-up lumbersexual, aliquip ea four dollar\\n\' +\n' +
