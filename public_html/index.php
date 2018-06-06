@@ -110,7 +110,7 @@
 							</a>
 						</div>
 					</div>
-					<div class="card col-sm-12 col-md-8 bg-secondary story">
+					<div class="card col-sm-12 col-md-8 bg-secondary story" id="story">
 						<div class="card-body d-flex flex-column" id="story-0">
 							<h4 class="card-title order-1 d-block">ALABAMA SUNSHINE</h4>
 							<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>
@@ -143,7 +143,7 @@
 				</div>
 		</section>
 		<div class="container-fluid">
-			<div class="redbar mx-1"></div>
+			<div class="redbar mx-1 mx-sm-0"></div>
 		</div>
 		<section>
 			<div class="container-fluid frac" id="contact-section">

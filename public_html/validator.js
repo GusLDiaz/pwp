@@ -14,8 +14,7 @@ $(document).ready(function(){
 	 **/
 
 	/* begin validate function here */
-	$("#contact-form").validate
-	({
+	$("#contact-form").validate({
 
 		// setup handling of form errors
 		debug: true,
