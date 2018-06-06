@@ -87,7 +87,8 @@
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-4 mr-md-0 mr-sm-1 pr-0">
-						<div id="carouselStories" class="carousel slide carousel-fade" data-interval= "false" data-ride="carousel">
+						<div id="carouselStories" class="carousel slide carousel-fade" data-interval="false"
+							  data-ride="carousel">
 							<div class="carousel-inner" role="listbox">
 								<div class="carousel-item active">
 									<img class="d-block w-100" src="images/flower.jpg" alt="First slide">
@@ -110,8 +111,8 @@
 						</div>
 					</div>
 					<div class="card col-sm-12 col-md-8 bg-secondary">
-						<div class="card-body d-flex flex-column">
-							<h4 class="card-title order-1 d-block" id="print">ALABAMA SUNSHINE</h4>
+						<div class="card-body d-flex flex-column stories" id="story-1">
+							<h4 class="card-title order-1 d-block">ALABAMA SUNSHINE</h4>
 							<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>
 							<p class="card-text order-3 p-1" id="tbox">
 								and make up the bulk of the card's content.Tumeric pop-up lumbersexual, aliquip ea four dollar
@@ -134,6 +135,51 @@
 								I bet you’re still using Bootstrap too…
 								The Lab Bunny — One time beauty school suspendee, two time college dropout, full time lipstick
 								hoarder. Libra. Non-smoker. DTF
+							</p>
+							<a href="#!" class="btn btn-success order-8">full story</a>
+						</div>
+						<div class="card-body d-flex flex-column stories" id="story-2">
+							<h4 class="card-title order-1 d-block">MIXED FEELINGS</h4>
+							<h6 class="card-subtitle mb-2 text-muted d-block order-2">The One Where I Fell In Love With a Blender</h6>
+							<p class="card-text order-3 p-1" id="tbox">
+								Skate ipsum dolor sit amet, lien air wax sick steps quarter pipe stalefish. Rocket air Skate
+								Rock Saran Wrap smith grind blunt hang-up slap maxwell. Rip grip flail ollie speed wobbles
+								manual McTwist half-flip. Pivot bearings coping sick nollie lip. Impossible Old Ghosts launch
+								ramp gap wheels sponsored transfer. Ho-ho shoveit betty World Industries 270 Kevin Harris hang
+								up. Bigspin drop in fast plant trucks grind gnar bucket. Rocket air tailslide invert rail
+								concave half-cab. Mute-air mongo Kevin Harris hand rail Alan Gelfand steps ollie. 1080 720
+								rocket air air cab flip melancholy.
+
+								Hang up death box transfer 540 hip gnarly Blind. Hospital flip full-cab soul skate Alternative
+								Sports body varial stalefish rail slide. Indy grab gap Saran Wrap 50-50 pump 720 Wallows. 900
+								hang ten cess slide front foot impossible Venice sponsored judo air. Shinner fakie out gnar
+								bucket late nosebone crooked grind. Switch mute-air ollie north griptape hardware hand rail.
+								Masonite stoked John Lucero ollie ledge gap stalefish. Hand rail slide layback Chris Livingston
+								frontside air rip grip bigspin. Rad birdie boneless nosegrind rails transfer. Hand rail Japan
+								air crooked grind nose slide coping hang ten. Transition helipop darkslide freestyle Brooklyn
+								Banks skate key masonite. Tracker darkslide Andrew Reynolds fakie out gnarly poseur hard flip.
+							</p>
+							<a href="#!" class="btn btn-success order-8">full story</a>
+						</div>
+						<div class="card-body d-flex flex-column stories" id="story-3">
+							<h4 class="card-title order-1 d-block">BRITISH HONEY</h4>
+							<h6 class="card-subtitle mb-2 text-muted d-block order-2">A Tale of Tea and Tautology</h6>
+							<p class="card-text order-3 p-1" id="tbox">
+								Pommy ipsum a bit wonky treacle Bad Wolf one feels that sod's law Moriarty devonshire cream tea,
+								driving a mini bloody mary the black death sausage roll blimey bowler hat. Stiff upper lip
+								slap-head punter codswallop 221B Baker Street gutted fish and chips good old fashioned knees up
+								rumpy pumpy, pennyboy it's the dogs bollocks guinness indeed apple and pears sweets. See a man
+								about a dog it's cracking flags made a pig's ear of it you mean it ain't me noggin' one off
+								numbskull stew and dumps, a tenner porky-pies nigh bogroll by 'eck love punter, Northeners
+								Geordie curry sauce nosh chin up.
+								Baffled ever so pillock stew and dumps gutted, Big Ben at the boozer. Ridiculous trouble and
+								strife roast beef nose rag down the local lass cheerio, The Hounds of Baskerville it's the bees
+								knees slap-head beefeater a right corker done up like a kipper Moriarty, you 'avin a laugh mince
+								pies pompous alright duck scrote. Bull dog on the pull grub's up unhand me sir good old
+								fashioned knees up penny-dreadful, real ale god save the queen one would like. Lost the plot
+								bread and butter pudding I could reet fancy a flabbergasted doolally, a right corker pot noodle
+								scatterbrained a right corker up North, throw a spanner in the works darling flog.
+								Lass I bid you good day bloke, a tad.
 							</p>
 							<a href="#!" class="btn btn-success order-8">full story</a>
 						</div>
