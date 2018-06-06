@@ -110,8 +110,8 @@
 							</a>
 						</div>
 					</div>
-					<div class="card col-sm-12 col-md-8 bg-secondary">
-						<div class="card-body d-flex flex-column stories" id="story-1">
+					<div class="card col-sm-12 col-md-8 bg-secondary story">
+						<div class="card-body d-flex flex-column" id="story-0">
 							<h4 class="card-title order-1 d-block">ALABAMA SUNSHINE</h4>
 							<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>
 							<p class="card-text order-3 p-1" id="tbox">
@@ -138,7 +138,7 @@
 							</p>
 							<a href="#!" class="btn btn-success order-8">full story</a>
 						</div>
-						<div class="card-body d-flex flex-column stories" id="story-2">
+						<div class="card-body d-flex flex-column stories" id="story-1">
 							<h4 class="card-title order-1 d-block">MIXED FEELINGS</h4>
 							<h6 class="card-subtitle mb-2 text-muted d-block order-2">The One Where I Fell In Love With a Blender</h6>
 							<p class="card-text order-3 p-1" id="tbox">
@@ -161,7 +161,7 @@
 							</p>
 							<a href="#!" class="btn btn-success order-8">full story</a>
 						</div>
-						<div class="card-body d-flex flex-column stories" id="story-3">
+						<div class="card-body d-flex flex-column stories" id="story-2">
 							<h4 class="card-title order-1 d-block">BRITISH HONEY</h4>
 							<h6 class="card-subtitle mb-2 text-muted d-block order-2">A Tale of Tea and Tautology</h6>
 							<p class="card-text order-3 p-1" id="tbox">
