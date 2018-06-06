@@ -1,10 +1,10 @@
 $(document).ready(function() {
-	 var stories = ['story-0', 'story-1', 'story-2'],
-	// var stories = $('div[id^="story-"]').hide(),
+	const stories = ['story-0', 'story-1', 'story-2'],
+		// var stories = $('div[id^="story-"]').hide(),
 		storyCounter = 0;
-		// flag = false;
+	// flag = false;
 	console.log(stories[storyCounter]); // your initial value
-
+});
 	// the next line, of course, assumes you have an element with id="next"
 	$("#next").click(function() {
 		storyCounter = (storyCounter + 1) % stories.length; // increment your storyCounter
@@ -24,8 +24,8 @@ $(document).ready(function() {
 	});
 // var stories = $('div[id^="story-"]').hide(),
 // 	 // i = 0;
-function storyActivate(i){
-	if (i == 0) {
+function storyActivate(i) {
+	if(i == 0) {
 		$(".story").innerText = '<div class="card-body d-flex flex-column" id="story-0">\n' +
 			'\t\t\t\t\t\t\t<h4 class="card-title order-1 d-block">ALABAMA SUNSHINE</h4>\n' +
 			'\t\t\t\t\t\t\t<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>\n' +
@@ -53,7 +53,7 @@ function storyActivate(i){
 			'\t\t\t\t\t\t\t</p>\n' +
 			'\t\t\t\t\t\t\t<a href="#!" class="btn btn-success order-8">full story</a>\n' +
 			'\t\t\t\t\t\t</div>';
-	}else if (i == 1) {
+	} else if(i == 1) {
 		$(".story").innerText = '<div class="card-body d-flex flex-column" id="story-1">\n' +
 			'\t\t\t\t\t\t\t<h4 class="card-title order-1 d-block">HONEY</h4>\n' +
 			'\t\t\t\t\t\t\t<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>\n' +
@@ -81,7 +81,7 @@ function storyActivate(i){
 			'\t\t\t\t\t\t\t</p>\n' +
 			'\t\t\t\t\t\t\t<a href="#!" class="btn btn-success order-8">full story</a>\n' +
 			'\t\t\t\t\t\t</div>';
-	}else if (i == 2) {
+	} else if(i == 2) {
 		$(".story").innerText = '<div class="card-body d-flex flex-column" id="story-2">\\n\' +\n' +
 			'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t<h4 class="card-title order-1 d-block">TEA</h4>\\n\' +\n' +
 			'\t\t\t\'\\t\\t\\t\\t\\t\\t\\t<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>\\n\' +\n' +
@@ -114,7 +114,6 @@ function storyActivate(i){
 }
 
 
-
 	// $(function cycle() {
 	// 	stories.eq().fadeIn(400)
 	// 		.delay(5000)
@@ -124,5 +123,4 @@ function storyActivate(i){
 	// 	//   and reset to 0 when it equals divs.length
 	// })();
 
-});
 

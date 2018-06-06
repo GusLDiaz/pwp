@@ -23,7 +23,7 @@
 		<!-- Slick: -->
 		<!--		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>-->
 		<!--		<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.0/slick/slick.min.js"></script>-->
-		<!--		<script type="text/javascript" rel="script" src="slicks.js"></script>-->
+				<script type="text/javascript" rel="script" src="slicks.js"></script>
 
 		<!--Css: bootstrap and local -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
@@ -47,7 +47,7 @@
 					<div class="column">
 						<div class="container pt-5">
 							<h1 class="display-3 text-center font-weight-bold">GUS LIAKOS</h1>
-							<p class="lead text-center border">Web Development, Msdfdasdfadsfadf,asdfadsfadf</p>
+							<p class="lead text-center border bg-secondary">Human-Centered Design for Web Development</p>
 						</div>
 					</div>
 				</div>
@@ -73,8 +73,8 @@
 						Find Me on:
 					</button>
 					<div class="dropdown-menu dropdown-menu-right">
-						<button class="dropdown-item" type="button">Github</button>
-						<button class="dropdown-item" type="button">LinkedIn</button>
+						<button class="dropdown-item" type="button">Github   <i href="https://github.com/gusldiaz" target="_blank" class="fab fa-github"></i></button>
+						<button class="dropdown-item" type="button">LinkedIn <i href="https://www.linkedin.com/in/gusliakos" class="fab fa-linkedin-in"> </i></button>
 						<button class="dropdown-item" type="button">Medium</button>
 					</div>
 				</div>
