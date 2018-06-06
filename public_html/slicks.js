@@ -17,7 +17,7 @@ $(document).ready(function() {
 	});
 	$("#prev").click(function() {
 		//to allow for iteration through the loop, work with multiples of stories.length
-		storyCounter = (storyCounter + 3) % stories.length;
+		storyCounter = (storyCounter + 2) % stories.length;
 		console.log(stories[storyCounter]);
 		// flag = true;
 		// console.log(flag);
