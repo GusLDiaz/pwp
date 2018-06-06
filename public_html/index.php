@@ -34,7 +34,7 @@
 		<link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
 		<!-- Your JavaScript Form Validator -->
-		<script src="./validator.js"></script>
+		<script src="validator.js"></script>
 		<!-- Google Recaptcha -->
 		<script src="https://www.google.com/recaptcha/api.js"></script>
 		<title>GladLad</title>
@@ -151,7 +151,7 @@
 					<div class="row ml-1">
 						<div class="column pt-5 mb-5 pb-5 col-12 darkfont">
 							<h2>Contact</h2>
-							<form id="contact-form" class="form-horizontal well">
+							<form id="contact-form" class="form-horizontal well" method="post" action="php/mailer.php">
 								<div class="form-group">
 									<label class="darkfont" for="name">Name</label>
 									<div class="input-group border">
@@ -162,7 +162,7 @@
 									</div>
 								</div>
 								<div class="form-group">
-									<label class="darkfont " for="email">Email address</label>
+									<label class="darkfont" for="email">Email address</label>
 									<div class="input-group border">
 										<div class="input-group-addon">
 										</div>
