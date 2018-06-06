@@ -54,42 +54,41 @@
 			</div>
 		</section>
 		<section>
-			<div class="container-fluid about align-content-around d-flex flex-sm-wrap mw-100 mh-100 ">
-				<img src="images/lionteeth.jpg" alt="ricky" class="rounded-circle col-xs-12 col-sm-12 col-md-6 row-sm-12">
-				<!--				<div class="list-group align-self-end rounded b border-dark">-->
-				<!--					<a class="list-group-item-dark pb-3 display-2 pr-2 ">-->
-				<!--						Developer-->
-				<!--					</a>-->
-				<!--					<a class="list-group-item-dark pb-3 pr-2 display-4 justify-content-between align-items-center">-->
-				<!--						Photographer-->
-				<!--					</a>-->
-				<!--					<a class="list-group-item-dark display-4 pb-3 justify-content-between align-items-center">-->
-				<!--						Writer-->
-				<!--								<span class="badge badge-primary badge-pill lead badge-dark" href="#!">Medium</span>-->
-				<!--					</a>-->
-				<div class="align-baseline col-md-3">
-					<div class="btn-group float-right">
-						<button type="button" class="btn btn-secondary display-1 dropdown-toggle" data-toggle="dropdown"
-								  aria-haspopup="true" aria-expanded="false">
-							Find Me on:
-						</button>
-						<div class="dropdown-menu dropdown-menu-right">
-							<button class="dropdown-item" type="button">Github</button>
-							<button class="dropdown-item" type="button">LinkedIn</button>
-							<button class="dropdown-item" type="button">Medium</button>
-						</div>
+			<div class="container-fluid about mw-100 mh-100 justify-content-right">
+				<!--			<img src="images/lionteeth.jpg" alt="ricky" class="rounded-circle col-xs-12 col-sm-12 col-md-6 row-sm-12">-->
+
+
+				<div class="d-flex flex-row-reverse border-warning">
+					<blockquote class="blockquote w-50 ">
+						<p class="mb-0">
+							Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to
+							make dreams come true and the tendency to miss lunch.
+
+						</p>
+						<footer class="blockquote-footer"><cite title="Source Title">Tim Berners-Lee</cite>
+						</footer>
+					</blockquote>
+				</div>
+				<div class="btn-group float-right">
+					<button type="button" class="btn btn-secondary display-1 dropdown-toggle" data-toggle="dropdown"
+							  aria-haspopup="true" aria-expanded="false">
+						Find Me on:
+					</button>
+					<div class="dropdown-menu dropdown-menu-right">
+						<button class="dropdown-item" type="button">Github</button>
+						<button class="dropdown-item" type="button">LinkedIn</button>
+						<button class="dropdown-item" type="button">Medium</button>
 					</div>
 				</div>
 			</div>
-			</div>
 		</section>
 		<div class="container-fluid">
-			<div class="ml-md-4 ml-sm-1 redbar"></div>
+			<div class="ml-md-2 ml-sm-1 redbar"></div>
 		</div>
 		<section>
 			<div class="container-fluid">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-4 mr-0 pr-0">
 						<div id="carouselStories" class="carousel slide carousel-fade" data-ride="carousel">
 							<div class="carousel-inner" role="listbox">
 								<div class="carousel-item active">
@@ -119,7 +118,7 @@
 						<!--					</div>-->
 						<!--				</div>-->
 					</div>
-					<div class="card col-sm-12 col-md-8 bg-dark">
+					<div class="card col-sm-12 col-md-8 bg-secondary">
 						<div class="card-body d-flex flex-column">
 							<h4 class="card-title order-1 d-block" id="print">ALABAMA SUNSHINE</h4>
 							<h6 class="card-subtitle mb-2 text-muted d-block order-2">When Two Was Too Many</h6>
@@ -149,9 +148,6 @@
 						</div>
 					</div>
 				</div>
-		</section>
-		<section>
-			<div class="container"></div>
 		</section>
 		<div class="container-fluid">
 			<div class="redbar mx-1"></div>
@@ -199,7 +195,6 @@
 													 placeholder="Message for Me:"></textarea>
 									</div>
 								</div>
-
 						</div>
 					</div>
 				</div>
@@ -212,14 +207,12 @@
 				<div id="output-area"></div>
 			</div><!-- /.col-sm-6 -->
 		</section><!-- /.row -->
-
-
-		<footer class="py-4 text-white">
-			<div class="container">
-				<a class="text-white"
-					href="https://bootcamp-coders.cnm.edu/class-materials/jquery-validated-captcha-form/" target="_blank">Documentation</a>
-				| <a class="text-white" href="https://github.com/rlewis2892/pwp-form-demo" target="_blank">GitHub</a>
-			</div>
-		</footer>
+		<!--		<footer class="py-4 text-white">-->
+		<!--			<div class="container">-->
+		<!--				<a class="text-white"-->
+		<!--					href="https://bootcamp-coders.cnm.edu/class-materials/jquery-validated-captcha-form/" target="_blank">Documentation</a>-->
+		<!--				| <a class="text-white" href="https://github.com/rlewis2892/pwp-form-demo" target="_blank">GitHub</a>-->
+		<!--			</div>-->
+		<!--		</footer>-->
 	</body>
 </html>

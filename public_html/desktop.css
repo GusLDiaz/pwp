@@ -28,6 +28,8 @@
 	width: 100vw;
 	height: 88vh;
 	border-top: .8rem outset #720808;
+	background-image: url("images/lion-man.png");
+	background-repeat: no-repeat;
 }
 .card{
 	margin: 0;
@@ -35,8 +37,9 @@
 }
 .frac{
 	background-image: url("images/irony.png");
-	background-position: top right;
+	background-position: right;
 	background-repeat: no-repeat;
+	background-size: cover;
 }
 .darkfont{
 	color: antiquewhite;
